@@ -1,0 +1,10 @@
+EXAMPLE_DATA_FILE = "data/example_data_cleaned.csv"
+EXAMPLE_MEAN_STD_FILE = "data/example_data_preprocessed_mean_std.csv"
+MODEL_PICKLE = "model/ann_clf.pkl"
+CSS_FILE = "css/style.css"
+BANNER_IMG = "img/banner.jpg"
+TARGET_NAME = "Osteoporosis"
+# Dev Info
+DEV_EMAIL = "eeliuqin@gmail.com"
+ML_REPO = "https://github.com/eeliuqin/Osteoporosis-Analysis-and-Prediction-on-NHANES-Data"
+APP_REPO = "https://github.com/eeliuqin/osteoporosis-prediction-app"

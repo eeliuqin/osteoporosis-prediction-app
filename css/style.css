@@ -1,0 +1,15 @@
+/* hide index of dataframe */
+thead tr th:first-child { display:none }
+tbody th { display:none }
+/* header of expander */
+.streamlit-expanderHeader > div > p { font-size: 16px; font-weight: bold; }
+/* form */
+[data-testid="stForm"] p { font-size: 1rem; }
+/* form button */
+div.stButton > button:first-child p { font-weight: bold;}
+/* BMI calculation container */
+.bmi-calculation { padding: 0 1.5em 1em 1.5em; }
+[data-testid="stForm"] [data-testid="stCaptionContainer"] { padding: 0 1.5em; }
+[data-testid="stForm"] [data-testid="stHorizontalBlock"]:has(div.bmi-calculation) { padding: 0 1.5em; }
+/* Caption */
+[data-testid="stCaptionContainer"] p { font-size: 1rem; }
