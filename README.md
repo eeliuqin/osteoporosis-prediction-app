@@ -2,7 +2,7 @@
 
 [Osteoporosis Prediction App](https://osteoporosis-prediction.streamlit.app/) is a web app that uses machine learning to predict whether you have [osteoporosis](https://www.nia.nih.gov/health/osteoporosis).
 <div align="center">
-  <img alt="App Demo" src="img/demo.png">
+  <img alt="App Demo" src="img/demo.png" width="55%">
 </div>
 
 ## Description
